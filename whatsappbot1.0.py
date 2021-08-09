@@ -12,7 +12,7 @@ driver.get('https://web.whatsapp.com')
 time.sleep(15)
 
 # Escolhando o NOME dos contatos já salvos a serem usados no envio de mensagem ( é Importante não deixar nenhuma letra maiuscula de fora ou espaço, para que não tenha erro )
-contatos = ['Grupo solo', 'Teste bot', 'super estagios', 'Irmão', 'Mãe']
+contatos = ['Grupo solo', 'Teste bot', 'Irmão', 'Mãe']
 # Preenchendo o conteúdo da mensagem
 mensagem = 'teste'
 
